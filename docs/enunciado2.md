@@ -93,7 +93,7 @@ El repositorio deberá contener al menos lo siguiente:
 
 ### Fecha de entrega
 
-La fecha de entrega será el día 5 de Enero de 2025.
+La fecha de entrega será el día 12 de Enero de 2025.
 
 
 [1]: https://es.wikipedia.org/wiki/JSON
